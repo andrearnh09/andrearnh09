@@ -1,0 +1,49 @@
+<html>
+<head> <title> arn </title> 
+</head>
+
+<body>
+
+
+
+<table align=center border=1 height=200px width=200px>
+
+ 
+<tr>
+  
+<td colspan=2 align=center> nombre </td>
+ </tr>
+
+
+</tr>
+
+
+<tr>
+  
+  
+<td align=center> 1 </td>
+  
+<td align=center> 2 </td>
+  
+ 
+</tr>
+
+ 
+
+<tr>
+
+  
+<td align=center> 3 </td>
+  
+<td align=center> 4 </td>
+  
+</tr>
+
+ 
+
+
+</table>
+ 
+</body>
+ 
+</html>
